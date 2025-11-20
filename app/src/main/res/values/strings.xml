@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
     <string name="app_name">AltaPromos</string>
     <string name="title_home">Inicio</string>
     <string name="title_dashboard">Alta</string>
     <string name="title_notifications">Estadisticas</string>
 
-    <!-- Form labels -->
+    <!-- Altas form labels -->
     <string name="label_reparto">Número de Reparto</string>
     <string name="label_reparto_short">Reparto</string>
     <string name="hint_reparto">Ingrese el nro. de reparto</string>
@@ -47,6 +47,25 @@
     <string name="status_new">Nuevo</string>
     <string name="status_pending">Pendiente</string>
     <string name="status_completed">Completado</string>
+
+    <!-- Statistics screen -->
+    <string name="header_statistics">Estadísticas</string>
+    <string name="stats_today">Resumen de hoy</string>
+    <string name="total_clients">Total</string>
+    <string name="new_today">Nuevos</string>
+    <string name="completed">Completados</string>
+    <string name="dispenser_stats">Dispenser Frío/Calor</string>
+    <string name="dispenser_yes">Sí quiere</string>
+    <string name="dispenser_no">No quiere</string>
+    <string name="promo_types_stats">Tipos de Promoción</string>
+    <string name="promo_voucher">Voucher</string>
+    <string name="promo_50">Promo 50%</string>
+    <string name="weekly_activity">Actividad Semanal</string>
+    <string name="day_monday">Lunes</string>
+    <string name="day_tuesday">Martes</string>
+    <string name="day_wednesday">Miércoles</string>
+    <string name="day_thursday">Jueves</string>
+    <string name="day_friday">Viernes</string>
 
     <!-- Actions / errors -->
     <string name="action_guardar">Enviar</string>
