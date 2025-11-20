@@ -27,7 +27,7 @@
     <string name="label_observaciones">Observaciones</string>
     <string name="hint_observaciones">Notas adicionales…</string>
 
-    <string name="action_guardar">Guardar</string>
+    <string name="action_guardar">Enviar</string>
 
     <!-- Static options -->
     <string-array name="dias_semana">
@@ -45,4 +45,5 @@
 
     <!-- Google/Places API key placeholder -->
     <string name="google_maps_key" translatable="false">YOUR_API_KEY_HERE</string>
+    <string name="error_requerido">Requerido</string>
 </resources>

@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores adicionales para el diseño mejorado -->
+    <color name="purple_50">#F3E5F5</color>
+    <color name="background_light">#F5F5F5</color>
 </resources>
