@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">AltaPromos</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Alta</string>
+    <string name="title_notifications">Estadisticas</string>
+
+    <!-- Altas form labels -->
+    <string name="label_reparto">Número de Reparto</string>
+    <string name="hint_reparto">Ingrese el nro. de reparto</string>
+    <string name="label_nombre">Nombre Completo</string>
+    <string name="hint_nombre">Ej: Juan Pérez</string>
+    <string name="label_direccion">Dirección</string>
+    <string name="hint_direccion">Busque y seleccione la dirección</string>
+    <string name="label_localidad">Localidad</string>
+    <string name="hint_localidad">Seleccione una localidad</string>
+    <string name="label_telefono">Teléfono</string>
+    <string name="hint_telefono">Ej: 11 5555-5555</string>
+    <string name="label_email">Email</string>
+    <string name="hint_email">nombre@dominio.com</string>
+    <string name="label_dia_visita">Día de visita</string>
+
+    <string name="section_promo">Datos de la promoción</string>
+    <string name="label_disp_fc">Quiere dispenser frío/calor</string>
+    <string name="label_fecha_entrega">Fecha de entrega</string>
+    <string name="hint_fecha_entrega">Seleccione una fecha</string>
+    <string name="label_tipo_promo">Tipo de promoción</string>
+    <string name="label_observaciones">Observaciones</string>
+    <string name="hint_observaciones">Notas adicionales…</string>
+
+    <string name="action_guardar">Guardar</string>
+
+    <!-- Static options -->
+    <string-array name="dias_semana">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+    </string-array>
+    <string-array name="tipos_promocion">
+        <item>Voucher</item>
+        <item>Promo 50%</item>
+    </string-array>
+
+    <!-- Google/Places API key placeholder -->
+    <string name="google_maps_key" translatable="false">YOUR_API_KEY_HERE</string>
+</resources>
